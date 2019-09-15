@@ -1,0 +1,530 @@
+[
+  {
+    "id": 1,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "male",
+      "color": "red",
+      "size": "small"
+    }
+  },
+  {
+    "id": 2,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "male",
+      "color": "red",
+      "size": "medium"
+    }
+  },
+  {
+    "id": 3,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "male",
+      "color": "red",
+      "size": "large"
+    }
+  },
+  {
+    "id": 4,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "male",
+      "color": "red",
+      "size": "extra-large"
+    }
+  },
+  {
+    "id": 5,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "male",
+      "color": "red",
+      "size": "2x-large"
+    }
+  },
+  {
+    "id": 6,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "male",
+      "color": "green",
+      "size": "small"
+    }
+  },
+  {
+    "id": 7,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "male",
+      "color": "green",
+      "size": "medium"
+    }
+  },
+  {
+    "id": 8,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "male",
+      "color": "green",
+      "size": "large"
+    }
+  },
+  {
+    "id": 9,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "male",
+      "color": "green",
+      "size": "extra-large"
+    }
+  },
+  {
+    "id": 10,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "male",
+      "color": "green",
+      "size": "2x-large"
+    }
+  },
+  {
+    "id": 11,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "male",
+      "color": "navy",
+      "size": "small"
+    }
+  },
+  {
+    "id": 12,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "male",
+      "color": "navy",
+      "size": "medium"
+    }
+  },
+  {
+    "id": 13,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "male",
+      "color": "navy",
+      "size": "large"
+    }
+  },
+  {
+    "id": 14,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "male",
+      "color": "navy",
+      "size": "extra-large"
+    }
+  },
+  {
+    "id": 15,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "male",
+      "color": "navy",
+      "size": "2x-large"
+    }
+  },
+  {
+    "id": 16,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "male",
+      "color": "white",
+      "size": "small"
+    }
+  },
+  {
+    "id": 17,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "male",
+      "color": "white",
+      "size": "medium"
+    }
+  },
+  {
+    "id": 18,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "male",
+      "color": "white",
+      "size": "large"
+    }
+  },
+  {
+    "id": 19,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "male",
+      "color": "white",
+      "size": "extra-large"
+    }
+  },
+  {
+    "id": 20,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "male",
+      "color": "white",
+      "size": "2x-large"
+    }
+  },
+  {
+    "id": 21,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "male",
+      "color": "black",
+      "size": "small"
+    }
+  },
+  {
+    "id": 22,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "male",
+      "color": "black",
+      "size": "medium"
+    }
+  },
+  {
+    "id": 23,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "male",
+      "color": "black",
+      "size": "large"
+    }
+  },
+  {
+    "id": 24,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "male",
+      "color": "black",
+      "size": "extra-large"
+    }
+  },
+  {
+    "id": 25,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "male",
+      "color": "black",
+      "size": "2x-large"
+    }
+  },
+  {
+    "id": 26,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "female",
+      "color": "red",
+      "size": "small"
+    }
+  },
+  {
+    "id": 27,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "female",
+      "color": "red",
+      "size": "medium"
+    }
+  },
+  {
+    "id": 28,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "female",
+      "color": "red",
+      "size": "large"
+    }
+  },
+  {
+    "id": 29,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "female",
+      "color": "red",
+      "size": "extra-large"
+    }
+  },
+  {
+    "id": 30,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "female",
+      "color": "red",
+      "size": "2x-large"
+    }
+  },
+  {
+    "id": 31,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "female",
+      "color": "green",
+      "size": "small"
+    }
+  },
+  {
+    "id": 32,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "female",
+      "color": "green",
+      "size": "medium"
+    }
+  },
+  {
+    "id": 33,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "female",
+      "color": "green",
+      "size": "large"
+    }
+  },
+  {
+    "id": 34,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "female",
+      "color": "green",
+      "size": "extra-large"
+    }
+  },
+  {
+    "id": 35,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "female",
+      "color": "green",
+      "size": "2x-large"
+    }
+  },
+  {
+    "id": 36,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "female",
+      "color": "navy",
+      "size": "small"
+    }
+  },
+  {
+    "id": 37,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "female",
+      "color": "navy",
+      "size": "medium"
+    }
+  },
+  {
+    "id": 38,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "female",
+      "color": "navy",
+      "size": "large"
+    }
+  },
+  {
+    "id": 39,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "female",
+      "color": "navy",
+      "size": "extra-large"
+    }
+  },
+  {
+    "id": 40,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "female",
+      "color": "navy",
+      "size": "2x-large"
+    }
+  },
+  {
+    "id": 41,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "female",
+      "color": "white",
+      "size": "small"
+    }
+  },
+  {
+    "id": 42,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "female",
+      "color": "white",
+      "size": "medium"
+    }
+  },
+  {
+    "id": 43,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "female",
+      "color": "white",
+      "size": "large"
+    }
+  },
+  {
+    "id": 44,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "female",
+      "color": "white",
+      "size": "extra-large"
+    }
+  },
+  {
+    "id": 45,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "female",
+      "color": "white",
+      "size": "2x-large"
+    }
+  },
+  {
+    "id": 46,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "female",
+      "color": "black",
+      "size": "small"
+    }
+  },
+  {
+    "id": 47,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "female",
+      "color": "black",
+      "size": "medium"
+    }
+  },
+  {
+    "id": 48,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "female",
+      "color": "black",
+      "size": "large"
+    }
+  },
+  {
+    "id": 49,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "female",
+      "color": "black",
+      "size": "extra-large"
+    }
+  },
+  {
+    "id": 50,
+    "product_type": "tshirt",
+    "options": {
+      "gender": "female",
+      "color": "black",
+      "size": "2x-large"
+    }
+  },
+  {
+    "id": 51,
+    "product_type": "mug",
+    "options": {
+      "type": "coffee-mug"
+    }
+  },
+  {
+    "id": 51,
+    "product_type": "mug",
+    "options": {
+      "type": "travel-mug"
+    }
+  },
+  {
+    "id": 51,
+    "product_type": "sticker",
+    "options": {
+      "size": "x-small",
+      "style": "matte"
+    }
+  },
+  {
+    "id": 51,
+    "product_type": "sticker",
+    "options": {
+      "size": "small",
+      "style": "matte"
+    }
+  },
+  {
+    "id": 51,
+    "product_type": "sticker",
+    "options": {
+      "size": "medium",
+      "style": "matte"
+    }
+  },
+  {
+    "id": 51,
+    "product_type": "sticker",
+    "options": {
+      "size": "large",
+      "style": "matte"
+    }
+  },
+  {
+    "id": 51,
+    "product_type": "sticker",
+    "options": {
+      "size": "x-large",
+      "style": "matte"
+    }
+  },
+  {
+    "id": 51,
+    "product_type": "sticker",
+    "options": {
+      "size": "medium",
+      "style": "glossy"
+    }
+  },
+  {
+    "id": 51,
+    "product_type": "sticker",
+    "options": {
+      "size": "large",
+      "style": "glossy"
+    }
+  },
+  {
+    "id": 51,
+    "product_type": "sticker",
+    "options": {
+      "size": "x-large",
+      "style": "glossy"
+    }
+  }
+]
