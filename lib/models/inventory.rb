@@ -1,4 +1,3 @@
-require 'byebug'
 require_relative 'product'
 require_relative 'collection'
 
@@ -7,19 +6,21 @@ class Inventory
 
   def initialize(product_data)
     @collections = []
+    @products = []
 
     product_data.each do |record|
+      @products << Product.new(@products.length, record["options"])
       collection = find_or_create_collection(record["product_type"])
-      collection.products << Product.new(record["options"])
+      collection.add_product(@products.last)
     end
   end
 
-  def product_search(type, options)
+  def product_search(type, options = [])
     collection = find_collection(type)
 
-    raise NameError, "Product type #{type} not found!" if collection.nil?
+    raise NameError, "Product type #{type} not found" if collection.nil?
 
-    collection.find_products(options)
+    puts collection.available_options(options)
   end
 
   private
@@ -33,13 +34,7 @@ class Inventory
   end
 
   def create_collection(product_type)
-    @collections << Collection.new(product_type)
+    @collections << Collection.new(@collections.length, product_type)
     @collections.last
   end
-
-  def format_search_results
-
-  end
-
-  # collections is the db and this model can also hold the queries
 end

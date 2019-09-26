@@ -15,9 +15,3 @@ console = Console.new
 
 # query inventory object with inputted product options
 inventory.product_search(console.product_type, console.options)
-
-product_type = console.product_type
-options = console.options
-
-puts product_type
-puts options

@@ -1,0 +1,9 @@
+# Ignore bundler config
+.bundle
+
+# Ignore IDEA project files
+.idea/
+
+# Ignore logfiles etc
+.byebug_history
+.rspec

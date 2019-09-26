@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "product_type": "jeans",
+    "options": {
+      "gender": "male",
+      "size": "32",
+      "wash": "dark"
+    }
+  },
+  {
+    "id": 2,
+    "product_type": "jeans",
+    "options": {
+      "gender": "male",
+      "size": "30",
+      "wash": "dark"
+    }
+  },
+  {
+    "id": 3,
+    "product_type": "jeans",
+    "options": {
+      "gender": "male",
+      "size": "34",
+      "wash": "dark"
+    }
+  },
+  {
+    "id": 4,
+    "product_type": "jeans",
+    "options": {
+      "gender": "female",
+      "size": "10",
+      "wash": "dark"
+    }
+  },
+  {
+    "id": 5,
+    "product_type": "jeans",
+    "options": {
+      "gender": "female",
+      "size": "6",
+      "wash": "acid"
+    }
+  },
+  {
+    "id": 6,
+    "product_type": "jeans",
+    "options": {
+      "gender": "female",
+      "size": "4",
+      "wash": "dark"
+    }
+  },
+  {
+    "id": 7,
+    "product_type": "jeans",
+    "options": {
+      "gender": "female",
+      "size": "4",
+      "wash": "acid"
+    }
+  },
+  {
+    "id": 8,
+    "product_type": "jeans",
+    "options": {
+      "gender": "female",
+      "size": "6",
+      "wash": "acid"
+    }
+  },
+  {
+    "id": 9,
+    "product_type": "hat",
+    "options": {
+      "style": "cap",
+      "color": "red"
+    }
+  },
+  {
+    "id": 10,
+    "product_type": "hat",
+    "options": {
+      "style": "cap",
+      "color": "blue"
+    }
+  },
+  {
+    "id": 11,
+    "product_type": "hat",
+    "options": {
+      "style": "cap",
+      "color": "green"
+    }
+  },
+  {
+    "id": 12,
+    "product_type": "hat",
+    "options": {
+      "style": "cap",
+      "color": "purple"
+    }
+  },
+  {
+    "id": 13,
+    "product_type": "hat",
+    "options": {
+      "style": "beanie",
+      "color": "red"
+    }
+  },
+  {
+    "id": 14,
+    "product_type": "hat",
+    "options": {
+      "style": "beanie",
+      "color": "yellow"
+    }
+  },
+  {
+    "id": 15,
+    "product_type": "hat",
+    "options": {
+      "style": "beanie",
+      "color": "blue"
+    }
+  }
+]
